@@ -1,6 +1,12 @@
-# Welcome to  Devoric! 👋
+<p align="center">
+  <img src="../devoric_logo.jpeg" alt="Devoric Logo" width="250">
+</p>
 
-We're so glad you're here. This page is your starting point for getting settled in, finding your way around, and making the most of your time with us.
+<h1 align="center">Welcome to Devoric 👋</h1>
+
+<p align="center">
+  <em>We're so glad you're here.</em>
+</p>
 
 ## First Things First
 
